@@ -1,0 +1,20 @@
+{
+	"folders": [
+		{
+			"path": "go"
+		},
+		{
+			"path": "py"
+		},
+		{
+			"path": "learning_sources"
+		},
+		{
+			"path": "js"
+		},
+		{
+			"path": "java"
+		}
+	],
+	"settings": {}
+}
